@@ -1,4 +1,4 @@
-# switch-the-bulb
+# light-the-bulb
 This website is made using HTML and CSS only. This can be used during 404 error pages or when the internet is low as a distraction. When the switch is ON the light glows and when the switch is OFF the light stops glowing.
 
 Basically, The bulb is in OFF mode
